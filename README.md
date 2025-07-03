@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi there 👋 I'm Alexander Thomas Sayson
+I’m a passionate Full-Stack Developer with a strong foundation in React.js, React Native, and Java Spring Boot. I build robust backends, craft responsive user interfaces, and love turning complex ideas into efficient software solutions.
 
+🚀 About Me
+🌍 Based in the Philippines
 
-**AlexanderThomasSayson/AlexanderThomasSayson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Specializing in full-stack web and mobile development
 
-Here are some ideas to get you started:
+⚙️ Backend: Java | Spring Boot | REST APIs | JWT Authentication | Microservices | Postgres | MySQL | AWS | Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🖥️ Frontend: React.js | React Native | Tailwind | MUI
 
+🧠 Always learning and exploring new technologies
+
+🤝 Open to collaboration on innovative and challenging projects
+
+📫 Reach me at: alexanderthomassayson@gmail.com
+
+🛠️ Current Focus
+Building scalable enterprise-level applications
+
+Exploring microservices, WebSockets, and real-time collaboration systems
+
+Enhancing user experiences with clean, maintainable UI
+
+Clean code
